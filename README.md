@@ -6,3 +6,6 @@ A small representation of the Sales Data Statistics through Microsoft Excel usin
 #Use the slicers to view the different month's stats, used channels or platforms and the targeted age group.
 
 #NOTE - Better use Microsoft Excel Web Application rather than Excel Spreadsheet for the above project.
+
+![Dashboard](https://github.com/Vijju12345/Project_Excel/assets/91243253/39d7af9a-dc4f-4ee9-a9cf-2803b2ad0bd0)
+
